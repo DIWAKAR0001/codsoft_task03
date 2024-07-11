@@ -1,0 +1,1 @@
+Welcome to my Calculator Project repository! This project features a simple and functional calculator created using HTML and CSS. It is designed to perform basic arithmetic operations in a user-friendly interface.
